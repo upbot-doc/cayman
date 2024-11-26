@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6005ecab-223f-41ce-8c23-42779e5d6de0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/templates/addons.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/templates/breadcrumbs.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/templates/footer.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/templates/sidebar.liquid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/api/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/api/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +54,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -42,11 +66,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732536406835</updated>
-      <workItem from="1732536408683" duration="2023000" />
+      <workItem from="1732536408683" duration="7284000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3310" y="455" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1732539034736">
+      <screen x="1728" y="25" width="2560" height="1415" />
+    </state>
+    <state x="3310" y="455" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.38.1728.1024/1728.25.2560.1415@1728.25.2560.1415" timestamp="1732539034736" />
+    <state x="3219" y="356" key="run.anything.popup" timestamp="1732539081665">
+      <screen x="1728" y="25" width="2560" height="1415" />
+    </state>
+    <state x="3219" y="356" key="run.anything.popup/0.38.1728.1024/1728.25.2560.1415@1728.25.2560.1415" timestamp="1732539081665" />
   </component>
 </project>
